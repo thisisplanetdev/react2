@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import "./App.css";
-import { Renderdata } from "./components/RenderData";
+import { Renderdata } from "./components/RenderData.jsx";
 
 
 import AddVideo from "./components/AddVideo";
